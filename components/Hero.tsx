@@ -38,7 +38,7 @@ const Hero = () => {
               words="Transforming Concepts into Seamless User Experince"
             />
             <p className="text-center md:-tracking-wider mb-4 text-sm md:text-lg lg:text-2xl dark:text-white">
-              Hi I'am Nitin, As a Full Stack Developer based in Palwal,Haryana
+              Hi I&apos;m Nitin, As a Full Stack Developer based in Palwal,Haryana
             </p>
             <a href="#about">
               <MagicButton
